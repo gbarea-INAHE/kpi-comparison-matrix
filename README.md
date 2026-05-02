@@ -6,7 +6,7 @@
 **Afiliación:** Instituto de Ambiente, Hábitat y Energía (INAHE) — CONICET Mendoza
 **Contacto:** gustavobarea@gmail.com
 **Repositorio:** `https://github.com/gbarea-INAHE/kpi-comparison-matrix`
-**DOI:** `10.5281/zenodo.XXXXXXX` *(placeholder — pendiente de asignación en Zenodo)*
+**DOI:** `10.5281/zenodo.19964373` *
 **Licencia:** Creative Commons Attribution 4.0 International (CC BY 4.0)
 **Versión:** 1.0 (YYYY-MM-DD)
 **Librería compañera:** `arid-resilience-kpis` (Python)

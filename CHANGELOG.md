@@ -14,11 +14,11 @@ companion Python library `arid-resilience-kpis`.
 ### Added
 
 * 17 KPIs documented across three tiers (CORE, EXTENSION, EXPLORATORY).
-* Single source of truth: `kpi\\\\\\\\\\\\\\\_definitions.py`.
-* Generated artefacts: `data/kpi\\\\\\\\\\\\\\\_comparison\\\\\\\\\\\\\\\_matrix.csv`,
-`data/kpi\\\\\\\\\\\\\\\_comparison\\\\\\\\\\\\\\\_matrix.xlsx` (3 sheets: README, KPI matrix, Tier legend).
+* Single source of truth: `kpi\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_definitions.py`.
+* Generated artefacts: `data/kpi\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_comparison\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_matrix.csv`,
+`data/kpi\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_comparison\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_matrix.xlsx` (3 sheets: README, KPI matrix, Tier legend).
 * Companion descriptive document: `README.md`.
-* Build script: `build\\\\\\\\\\\\\\\_matrix.py` (regenerates CSV and XLSX from the source of truth).
+* Build script: `build\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_matrix.py` (regenerates CSV and XLSX from the source of truth).
 * Reproducibility: `Makefile` with `make all`.
 
 ### Released formats
@@ -35,7 +35,7 @@ companion Python library `arid-resilience-kpis`.
 
 ### Notes
 
-* DOI placeholder pending Zenodo release.
+* DOI: `10.5281/zenodo.19964373`
 * Repository URL: `https://github.com/gbarea-INAHE/kpi-comparison-matrix`
 * Designed to be consumed by the `arid-resilience-kpis` Python library
 (Sprint 2 deliverable).

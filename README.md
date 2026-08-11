@@ -139,7 +139,7 @@ El changelog completo se mantiene en [`CHANGELOG.md`](CHANGELOG.md) del reposito
 
 ## 9. Agradecimientos
 
-Este dataset es el primer entregable del Plan de Trabajo 2026–2029 desarrollado en el INAHE-CONICET para la evaluación de resiliencia termo-energética de viviendas en climas áridos sudamericanos, alineado con el IEA EBC Annex 80. Alimenta los OE1 y OE2 del plan y se consume desde la librería Python `aridkpi`. El trabajo se beneficia de la línea de investigación construida en colaboración con C. Filippín (CONICET — La Pampa), S. Flores Larsen (CONICET — Salta), F. Bre y V. Fachinotti (CIMEC — Santa Fe), C. Ganem y M. V. Mercado (INAHE — Mendoza) y A. Esteves (INAHE — Mendoza), cuyas contribuciones individuales se citan en el campo `references` de cada KPI.
+Este dataset es el primer entregable del Plan de Trabajo 2026–2029 desarrollado en el INAHE-CONICET para la evaluación de resiliencia termo-energética de viviendas en climas áridos sudamericanos, alineado con el IEA EBC Annex 80. Alimenta los OE1 y OE2 del plan y se consume desde la librería Python `aridkpi`. 
 
 ---
 
